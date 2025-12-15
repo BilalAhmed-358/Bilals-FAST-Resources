@@ -7,3 +7,4 @@
 5. [Fifth Semester](https://github.com/BilalAhmed-358/4th-Semester)
 6. [Sixth Semester](https://github.com/BilalAhmed-358/6th-Semester)
 7. [Seventh Semester](https://github.com/BilalAhmed-358/7th-Semester)
+8. [Eigth Semester](https://github.com/BilalAhmed-358/8th-semster)
